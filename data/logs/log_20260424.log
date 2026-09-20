@@ -1,0 +1,792 @@
+2026-04-24 20:12:05,249 - Main - INFO - Sistem Gerbang Otomatis dimulai
+2026-04-24 20:12:14,818 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:13:07,701 - Trainer - INFO - User Yusril deleted
+2026-04-24 20:13:23,878 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:13:23,878 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:15:21,258 - Trainer - INFO - Starting training process...
+2026-04-24 20:15:21,258 - Trainer - INFO - Starting training process...
+2026-04-24 20:15:21,259 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:15:21,259 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:15:22,359 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:15:22,359 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:15:22,366 - Trainer - INFO - Training with 100 faces from 1 users
+2026-04-24 20:15:22,366 - Trainer - INFO - Training with 100 faces from 1 users
+2026-04-24 20:15:23,536 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:15:23,536 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:15:23,537 - Trainer - INFO - Training completed! Total users: 1
+2026-04-24 20:15:23,537 - Trainer - INFO - Training completed! Total users: 1
+2026-04-24 20:15:34,199 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:15:34,199 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:15:34,199 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:15:34,199 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:15:34,200 - Trainer - INFO - Labels: {0: 'Yusril'}
+2026-04-24 20:15:34,200 - Trainer - INFO - Labels: {0: 'Yusril'}
+2026-04-24 20:15:34,200 - Trainer - INFO - Labels: {0: 'Yusril'}
+2026-04-24 20:15:34,200 - Trainer - INFO - Labels: {0: 'Yusril'}
+2026-04-24 20:15:34,894 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:15:34,894 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:15:34,894 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:15:34,894 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:15:34,896 - Trainer - INFO - Labels: {0: 'Yusril'}
+2026-04-24 20:15:34,896 - Trainer - INFO - Labels: {0: 'Yusril'}
+2026-04-24 20:15:34,896 - Trainer - INFO - Labels: {0: 'Yusril'}
+2026-04-24 20:15:34,896 - Trainer - INFO - Labels: {0: 'Yusril'}
+2026-04-24 20:15:34,897 - Recognizer - INFO - Model loaded. Users: ['Yusril']
+2026-04-24 20:15:34,897 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:15:49,858 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:15:49,858 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:15:49,858 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:23:21,154 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:23:21,154 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:23:21,154 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:23:21,154 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:27:31,801 - Trainer - INFO - Starting training process...
+2026-04-24 20:27:31,801 - Trainer - INFO - Starting training process...
+2026-04-24 20:27:31,801 - Trainer - INFO - Starting training process...
+2026-04-24 20:27:31,801 - Trainer - INFO - Starting training process...
+2026-04-24 20:27:31,801 - Trainer - INFO - Starting training process...
+2026-04-24 20:27:31,803 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:27:31,803 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:27:31,803 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:27:31,803 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:27:31,803 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:27:32,902 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:27:32,902 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:27:32,902 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:27:32,902 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:27:32,902 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:27:32,903 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:27:32,903 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:27:32,903 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:27:32,903 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:27:32,903 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:27:32,968 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:27:32,968 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:27:32,968 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:27:32,968 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:27:32,968 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:27:32,969 - Trainer - INFO - Training with 200 faces from 2 users
+2026-04-24 20:27:32,969 - Trainer - INFO - Training with 200 faces from 2 users
+2026-04-24 20:27:32,969 - Trainer - INFO - Training with 200 faces from 2 users
+2026-04-24 20:27:32,969 - Trainer - INFO - Training with 200 faces from 2 users
+2026-04-24 20:27:32,969 - Trainer - INFO - Training with 200 faces from 2 users
+2026-04-24 20:27:35,317 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:35,317 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:35,317 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:35,317 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:35,317 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:35,319 - Trainer - INFO - Training completed! Total users: 2
+2026-04-24 20:27:35,319 - Trainer - INFO - Training completed! Total users: 2
+2026-04-24 20:27:35,319 - Trainer - INFO - Training completed! Total users: 2
+2026-04-24 20:27:35,319 - Trainer - INFO - Training completed! Total users: 2
+2026-04-24 20:27:35,319 - Trainer - INFO - Training completed! Total users: 2
+2026-04-24 20:27:46,966 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:46,966 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:46,966 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:46,966 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:46,966 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:46,966 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:46,966 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:46,968 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Yusril'}
+2026-04-24 20:27:46,968 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Yusril'}
+2026-04-24 20:27:46,968 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Yusril'}
+2026-04-24 20:27:46,968 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Yusril'}
+2026-04-24 20:27:46,968 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Yusril'}
+2026-04-24 20:27:46,968 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Yusril'}
+2026-04-24 20:27:46,968 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Yusril'}
+2026-04-24 20:27:48,343 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:48,343 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:48,343 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:48,343 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:48,343 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:48,343 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:48,343 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:27:48,344 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Yusril'}
+2026-04-24 20:27:48,344 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Yusril'}
+2026-04-24 20:27:48,344 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Yusril'}
+2026-04-24 20:27:48,344 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Yusril'}
+2026-04-24 20:27:48,344 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Yusril'}
+2026-04-24 20:27:48,344 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Yusril'}
+2026-04-24 20:27:48,344 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Yusril'}
+2026-04-24 20:27:48,345 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Yusril']
+2026-04-24 20:27:48,345 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Yusril']
+2026-04-24 20:27:48,346 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:27:48,346 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:28:04,126 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:28:04,126 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:28:04,126 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:28:04,126 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:28:04,126 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:31:10,250 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:31:10,250 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:31:10,250 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:31:10,250 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:31:10,250 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:31:10,250 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:35:10,239 - Trainer - INFO - Starting training process...
+2026-04-24 20:35:10,239 - Trainer - INFO - Starting training process...
+2026-04-24 20:35:10,239 - Trainer - INFO - Starting training process...
+2026-04-24 20:35:10,239 - Trainer - INFO - Starting training process...
+2026-04-24 20:35:10,239 - Trainer - INFO - Starting training process...
+2026-04-24 20:35:10,239 - Trainer - INFO - Starting training process...
+2026-04-24 20:35:10,239 - Trainer - INFO - Starting training process...
+2026-04-24 20:35:10,239 - Trainer - INFO - Starting training process...
+2026-04-24 20:35:10,242 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:35:10,242 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:35:10,242 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:35:10,242 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:35:10,242 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:35:10,242 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:35:10,242 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:35:10,242 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:35:10,305 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:35:10,305 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:35:10,305 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:35:10,305 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:35:10,305 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:35:10,305 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:35:10,305 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:35:10,305 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:35:10,307 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:35:10,307 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:35:10,307 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:35:10,307 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:35:10,307 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:35:10,307 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:35:10,307 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:35:10,307 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:35:11,401 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:35:11,401 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:35:11,401 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:35:11,401 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:35:11,401 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:35:11,401 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:35:11,401 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:35:11,401 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:35:11,404 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:35:11,404 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:35:11,404 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:35:11,404 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:35:11,404 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:35:11,404 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:35:11,404 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:35:11,404 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:35:11,466 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:35:11,466 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:35:11,466 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:35:11,466 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:35:11,466 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:35:11,466 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:35:11,466 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:35:11,466 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:35:11,468 - Trainer - INFO - Training with 300 faces from 3 users
+2026-04-24 20:35:11,468 - Trainer - INFO - Training with 300 faces from 3 users
+2026-04-24 20:35:11,468 - Trainer - INFO - Training with 300 faces from 3 users
+2026-04-24 20:35:11,468 - Trainer - INFO - Training with 300 faces from 3 users
+2026-04-24 20:35:11,468 - Trainer - INFO - Training with 300 faces from 3 users
+2026-04-24 20:35:11,468 - Trainer - INFO - Training with 300 faces from 3 users
+2026-04-24 20:35:11,468 - Trainer - INFO - Training with 300 faces from 3 users
+2026-04-24 20:35:11,468 - Trainer - INFO - Training with 300 faces from 3 users
+2026-04-24 20:35:14,868 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:14,868 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:14,868 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:14,868 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:14,868 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:14,868 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:14,868 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:14,868 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:14,871 - Trainer - INFO - Training completed! Total users: 3
+2026-04-24 20:35:14,871 - Trainer - INFO - Training completed! Total users: 3
+2026-04-24 20:35:14,871 - Trainer - INFO - Training completed! Total users: 3
+2026-04-24 20:35:14,871 - Trainer - INFO - Training completed! Total users: 3
+2026-04-24 20:35:14,871 - Trainer - INFO - Training completed! Total users: 3
+2026-04-24 20:35:14,871 - Trainer - INFO - Training completed! Total users: 3
+2026-04-24 20:35:14,871 - Trainer - INFO - Training completed! Total users: 3
+2026-04-24 20:35:14,871 - Trainer - INFO - Training completed! Total users: 3
+2026-04-24 20:35:27,378 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:27,378 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:27,378 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:27,378 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:27,378 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:27,378 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:27,378 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:27,378 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:27,378 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:27,378 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:27,380 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:27,380 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:27,380 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:27,380 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:27,380 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:27,380 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:27,380 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:27,380 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:27,380 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:27,380 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:29,457 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:29,457 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:29,457 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:29,457 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:29,457 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:29,457 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:29,457 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:29,457 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:29,457 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:29,457 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:35:29,459 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:29,459 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:29,459 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:29,459 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:29,459 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:29,459 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:29,459 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:29,459 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:29,459 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:29,459 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Syifa', 2: 'Yusril'}
+2026-04-24 20:35:29,461 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Syifa', 'Yusril']
+2026-04-24 20:35:29,461 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Syifa', 'Yusril']
+2026-04-24 20:35:29,461 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Syifa', 'Yusril']
+2026-04-24 20:35:29,462 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:35:29,462 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:35:29,462 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:35:40,491 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:35:40,491 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:35:40,491 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:35:40,491 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:35:40,491 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:35:40,491 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:35:40,491 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:39:00,094 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:39:00,094 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:39:00,094 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:39:00,094 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:39:00,094 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:39:00,094 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:39:00,094 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:39:00,094 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:42:09,789 - Trainer - INFO - Starting training process...
+2026-04-24 20:42:09,789 - Trainer - INFO - Starting training process...
+2026-04-24 20:42:09,789 - Trainer - INFO - Starting training process...
+2026-04-24 20:42:09,789 - Trainer - INFO - Starting training process...
+2026-04-24 20:42:09,789 - Trainer - INFO - Starting training process...
+2026-04-24 20:42:09,789 - Trainer - INFO - Starting training process...
+2026-04-24 20:42:09,789 - Trainer - INFO - Starting training process...
+2026-04-24 20:42:09,789 - Trainer - INFO - Starting training process...
+2026-04-24 20:42:09,789 - Trainer - INFO - Starting training process...
+2026-04-24 20:42:09,789 - Trainer - INFO - Starting training process...
+2026-04-24 20:42:09,789 - Trainer - INFO - Starting training process...
+2026-04-24 20:42:09,793 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:42:09,793 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:42:09,793 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:42:09,793 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:42:09,793 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:42:09,793 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:42:09,793 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:42:09,793 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:42:09,793 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:42:09,793 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:42:09,793 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:42:09,862 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:42:09,862 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:42:09,862 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:42:09,862 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:42:09,862 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:42:09,862 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:42:09,862 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:42:09,862 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:42:09,862 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:42:09,862 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:42:09,862 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:42:09,866 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:42:09,866 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:42:09,866 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:42:09,866 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:42:09,866 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:42:09,866 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:42:09,866 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:42:09,866 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:42:09,866 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:42:09,866 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:42:09,866 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:42:10,969 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:42:10,969 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:42:10,969 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:42:10,969 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:42:10,969 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:42:10,969 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:42:10,969 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:42:10,969 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:42:10,969 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:42:10,969 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:42:10,969 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:42:10,972 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:42:10,972 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:42:10,972 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:42:10,972 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:42:10,972 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:42:10,972 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:42:10,972 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:42:10,972 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:42:10,972 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:42:10,972 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:42:10,972 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:42:11,039 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:42:11,039 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:42:11,039 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:42:11,039 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:42:11,039 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:42:11,039 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:42:11,039 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:42:11,039 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:42:11,039 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:42:11,039 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:42:11,039 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:42:11,042 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:42:11,042 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:42:11,042 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:42:11,042 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:42:11,042 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:42:11,042 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:42:11,042 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:42:11,042 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:42:11,042 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:42:11,042 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:42:11,042 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:42:11,109 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:42:11,109 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:42:11,109 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:42:11,109 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:42:11,109 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:42:11,109 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:42:11,109 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:42:11,109 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:42:11,109 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:42:11,109 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:42:11,109 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:42:11,112 - Trainer - INFO - Training with 400 faces from 4 users
+2026-04-24 20:42:11,112 - Trainer - INFO - Training with 400 faces from 4 users
+2026-04-24 20:42:11,112 - Trainer - INFO - Training with 400 faces from 4 users
+2026-04-24 20:42:11,112 - Trainer - INFO - Training with 400 faces from 4 users
+2026-04-24 20:42:11,112 - Trainer - INFO - Training with 400 faces from 4 users
+2026-04-24 20:42:11,112 - Trainer - INFO - Training with 400 faces from 4 users
+2026-04-24 20:42:11,112 - Trainer - INFO - Training with 400 faces from 4 users
+2026-04-24 20:42:11,112 - Trainer - INFO - Training with 400 faces from 4 users
+2026-04-24 20:42:11,112 - Trainer - INFO - Training with 400 faces from 4 users
+2026-04-24 20:42:11,112 - Trainer - INFO - Training with 400 faces from 4 users
+2026-04-24 20:42:11,112 - Trainer - INFO - Training with 400 faces from 4 users
+2026-04-24 20:42:15,704 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:15,704 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:15,704 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:15,704 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:15,704 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:15,704 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:15,704 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:15,704 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:15,704 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:15,704 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:15,704 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:15,708 - Trainer - INFO - Training completed! Total users: 4
+2026-04-24 20:42:15,708 - Trainer - INFO - Training completed! Total users: 4
+2026-04-24 20:42:15,708 - Trainer - INFO - Training completed! Total users: 4
+2026-04-24 20:42:15,708 - Trainer - INFO - Training completed! Total users: 4
+2026-04-24 20:42:15,708 - Trainer - INFO - Training completed! Total users: 4
+2026-04-24 20:42:15,708 - Trainer - INFO - Training completed! Total users: 4
+2026-04-24 20:42:15,708 - Trainer - INFO - Training completed! Total users: 4
+2026-04-24 20:42:15,708 - Trainer - INFO - Training completed! Total users: 4
+2026-04-24 20:42:15,708 - Trainer - INFO - Training completed! Total users: 4
+2026-04-24 20:42:15,708 - Trainer - INFO - Training completed! Total users: 4
+2026-04-24 20:42:15,708 - Trainer - INFO - Training completed! Total users: 4
+2026-04-24 20:42:28,231 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:28,231 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:28,231 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:28,231 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:28,231 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:28,231 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:28,231 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:28,231 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:28,231 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:28,231 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:28,231 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:28,231 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:28,231 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:28,234 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:28,234 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:28,234 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:28,234 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:28,234 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:28,234 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:28,234 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:28,234 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:28,234 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:28,234 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:28,234 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:28,234 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:28,234 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:31,014 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:31,014 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:31,014 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:31,014 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:31,014 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:31,014 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:31,014 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:31,014 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:31,014 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:31,014 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:31,014 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:31,014 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:31,014 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:42:31,017 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:31,017 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:31,017 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:31,017 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:31,017 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:31,017 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:31,017 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:31,017 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:31,017 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:31,017 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:31,017 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:31,017 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:31,017 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Syifa', 3: 'Yusril'}
+2026-04-24 20:42:31,019 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Syifa', 'Yusril']
+2026-04-24 20:42:31,019 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Syifa', 'Yusril']
+2026-04-24 20:42:31,019 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Syifa', 'Yusril']
+2026-04-24 20:42:31,019 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Syifa', 'Yusril']
+2026-04-24 20:42:31,020 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:42:31,020 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:42:31,020 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:42:31,020 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:42:41,748 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:42:41,748 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:42:41,748 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:42:41,748 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:42:41,748 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:42:41,748 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:42:41,748 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:42:41,748 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:42:41,748 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:46:56,499 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:46:56,499 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:46:56,499 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:46:56,499 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:46:56,499 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:46:56,499 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:46:56,499 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:46:56,499 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:46:56,499 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:46:56,499 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:49:27,131 - Trainer - INFO - Starting training process...
+2026-04-24 20:49:27,131 - Trainer - INFO - Starting training process...
+2026-04-24 20:49:27,131 - Trainer - INFO - Starting training process...
+2026-04-24 20:49:27,131 - Trainer - INFO - Starting training process...
+2026-04-24 20:49:27,131 - Trainer - INFO - Starting training process...
+2026-04-24 20:49:27,131 - Trainer - INFO - Starting training process...
+2026-04-24 20:49:27,131 - Trainer - INFO - Starting training process...
+2026-04-24 20:49:27,131 - Trainer - INFO - Starting training process...
+2026-04-24 20:49:27,131 - Trainer - INFO - Starting training process...
+2026-04-24 20:49:27,131 - Trainer - INFO - Starting training process...
+2026-04-24 20:49:27,131 - Trainer - INFO - Starting training process...
+2026-04-24 20:49:27,131 - Trainer - INFO - Starting training process...
+2026-04-24 20:49:27,131 - Trainer - INFO - Starting training process...
+2026-04-24 20:49:27,131 - Trainer - INFO - Starting training process...
+2026-04-24 20:49:27,136 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:49:27,136 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:49:27,136 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:49:27,136 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:49:27,136 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:49:27,136 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:49:27,136 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:49:27,136 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:49:27,136 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:49:27,136 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:49:27,136 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:49:27,136 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:49:27,136 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:49:27,136 - Trainer - INFO - Loading user: Johati
+2026-04-24 20:49:27,202 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:49:27,202 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:49:27,202 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:49:27,202 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:49:27,202 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:49:27,202 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:49:27,202 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:49:27,202 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:49:27,202 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:49:27,202 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:49:27,202 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:49:27,202 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:49:27,202 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:49:27,202 - Trainer - INFO -   Loaded 100 images for Johati
+2026-04-24 20:49:27,206 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:49:27,206 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:49:27,206 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:49:27,206 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:49:27,206 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:49:27,206 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:49:27,206 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:49:27,206 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:49:27,206 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:49:27,206 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:49:27,206 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:49:27,206 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:49:27,206 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:49:27,206 - Trainer - INFO - Loading user: Rokayah
+2026-04-24 20:49:27,265 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:49:27,265 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:49:27,265 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:49:27,265 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:49:27,265 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:49:27,265 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:49:27,265 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:49:27,265 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:49:27,265 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:49:27,265 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:49:27,265 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:49:27,265 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:49:27,265 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:49:27,265 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-04-24 20:49:27,269 - Trainer - INFO - Loading user: Siswanto
+2026-04-24 20:49:27,269 - Trainer - INFO - Loading user: Siswanto
+2026-04-24 20:49:27,269 - Trainer - INFO - Loading user: Siswanto
+2026-04-24 20:49:27,269 - Trainer - INFO - Loading user: Siswanto
+2026-04-24 20:49:27,269 - Trainer - INFO - Loading user: Siswanto
+2026-04-24 20:49:27,269 - Trainer - INFO - Loading user: Siswanto
+2026-04-24 20:49:27,269 - Trainer - INFO - Loading user: Siswanto
+2026-04-24 20:49:27,269 - Trainer - INFO - Loading user: Siswanto
+2026-04-24 20:49:27,269 - Trainer - INFO - Loading user: Siswanto
+2026-04-24 20:49:27,269 - Trainer - INFO - Loading user: Siswanto
+2026-04-24 20:49:27,269 - Trainer - INFO - Loading user: Siswanto
+2026-04-24 20:49:27,269 - Trainer - INFO - Loading user: Siswanto
+2026-04-24 20:49:27,269 - Trainer - INFO - Loading user: Siswanto
+2026-04-24 20:49:27,269 - Trainer - INFO - Loading user: Siswanto
+2026-04-24 20:49:28,373 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-04-24 20:49:28,373 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-04-24 20:49:28,373 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-04-24 20:49:28,373 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-04-24 20:49:28,373 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-04-24 20:49:28,373 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-04-24 20:49:28,373 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-04-24 20:49:28,373 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-04-24 20:49:28,373 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-04-24 20:49:28,373 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-04-24 20:49:28,373 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-04-24 20:49:28,373 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-04-24 20:49:28,373 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-04-24 20:49:28,373 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-04-24 20:49:28,377 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:49:28,377 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:49:28,377 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:49:28,377 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:49:28,377 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:49:28,377 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:49:28,377 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:49:28,377 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:49:28,377 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:49:28,377 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:49:28,377 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:49:28,377 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:49:28,377 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:49:28,377 - Trainer - INFO - Loading user: Syifa
+2026-04-24 20:49:28,439 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:49:28,439 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:49:28,439 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:49:28,439 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:49:28,439 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:49:28,439 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:49:28,439 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:49:28,439 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:49:28,439 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:49:28,439 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:49:28,439 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:49:28,439 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:49:28,439 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:49:28,439 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-04-24 20:49:28,442 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:49:28,442 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:49:28,442 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:49:28,442 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:49:28,442 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:49:28,442 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:49:28,442 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:49:28,442 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:49:28,442 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:49:28,442 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:49:28,442 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:49:28,442 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:49:28,442 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:49:28,442 - Trainer - INFO - Loading user: Yusril
+2026-04-24 20:49:28,503 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:49:28,503 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:49:28,503 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:49:28,503 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:49:28,503 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:49:28,503 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:49:28,503 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:49:28,503 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:49:28,503 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:49:28,503 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:49:28,503 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:49:28,503 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:49:28,503 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:49:28,503 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-04-24 20:49:28,507 - Trainer - INFO - Training with 500 faces from 5 users
+2026-04-24 20:49:28,507 - Trainer - INFO - Training with 500 faces from 5 users
+2026-04-24 20:49:28,507 - Trainer - INFO - Training with 500 faces from 5 users
+2026-04-24 20:49:28,507 - Trainer - INFO - Training with 500 faces from 5 users
+2026-04-24 20:49:28,507 - Trainer - INFO - Training with 500 faces from 5 users
+2026-04-24 20:49:28,507 - Trainer - INFO - Training with 500 faces from 5 users
+2026-04-24 20:49:28,507 - Trainer - INFO - Training with 500 faces from 5 users
+2026-04-24 20:49:28,507 - Trainer - INFO - Training with 500 faces from 5 users
+2026-04-24 20:49:28,507 - Trainer - INFO - Training with 500 faces from 5 users
+2026-04-24 20:49:28,507 - Trainer - INFO - Training with 500 faces from 5 users
+2026-04-24 20:49:28,507 - Trainer - INFO - Training with 500 faces from 5 users
+2026-04-24 20:49:28,507 - Trainer - INFO - Training with 500 faces from 5 users
+2026-04-24 20:49:28,507 - Trainer - INFO - Training with 500 faces from 5 users
+2026-04-24 20:49:28,507 - Trainer - INFO - Training with 500 faces from 5 users
+2026-04-24 20:49:34,119 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:34,119 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:34,119 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:34,119 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:34,119 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:34,119 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:34,119 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:34,119 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:34,119 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:34,119 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:34,119 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:34,119 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:34,119 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:34,119 - Trainer - INFO - Model saved to D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:34,123 - Trainer - INFO - Training completed! Total users: 5
+2026-04-24 20:49:34,123 - Trainer - INFO - Training completed! Total users: 5
+2026-04-24 20:49:34,123 - Trainer - INFO - Training completed! Total users: 5
+2026-04-24 20:49:34,123 - Trainer - INFO - Training completed! Total users: 5
+2026-04-24 20:49:34,123 - Trainer - INFO - Training completed! Total users: 5
+2026-04-24 20:49:34,123 - Trainer - INFO - Training completed! Total users: 5
+2026-04-24 20:49:34,123 - Trainer - INFO - Training completed! Total users: 5
+2026-04-24 20:49:34,123 - Trainer - INFO - Training completed! Total users: 5
+2026-04-24 20:49:34,123 - Trainer - INFO - Training completed! Total users: 5
+2026-04-24 20:49:34,123 - Trainer - INFO - Training completed! Total users: 5
+2026-04-24 20:49:34,123 - Trainer - INFO - Training completed! Total users: 5
+2026-04-24 20:49:34,123 - Trainer - INFO - Training completed! Total users: 5
+2026-04-24 20:49:34,123 - Trainer - INFO - Training completed! Total users: 5
+2026-04-24 20:49:34,123 - Trainer - INFO - Training completed! Total users: 5
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,077 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:48,081 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,552 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,555 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:49:51,557 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril']
+2026-04-24 20:49:51,557 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril']
+2026-04-24 20:49:51,557 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril']
+2026-04-24 20:49:51,557 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril']
+2026-04-24 20:49:51,557 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril']
+2026-04-24 20:49:51,558 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:49:51,558 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:49:51,558 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:49:51,558 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:49:51,558 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:50:00,500 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:50:00,500 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:50:00,500 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:50:00,500 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:50:00,500 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:50:00,500 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:50:00,500 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:50:00,500 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:50:00,500 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:50:00,500 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:50:00,500 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 20:55:23,431 - Main - INFO - Sistem Gerbang Otomatis dimulai
+2026-04-24 20:55:33,411 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:55:33,411 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:55:33,412 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:55:33,412 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:55:36,903 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:55:36,903 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:55:36,903 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:55:36,903 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:55:36,904 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril']
+2026-04-24 20:55:36,904 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:56:26,295 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:56:26,295 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:56:26,295 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:56:26,295 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:56:26,296 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:56:26,296 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:56:26,296 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:56:26,296 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:56:29,770 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:56:29,770 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:56:29,770 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:56:29,770 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-24 20:56:29,771 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:56:29,771 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:56:29,771 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:56:29,771 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-24 20:56:29,772 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril']
+2026-04-24 20:56:29,772 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril']
+2026-04-24 20:56:29,773 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:56:29,773 - Recognizer - INFO - Threshold: 60
+2026-04-24 20:56:34,854 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 21:02:06,590 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-24 21:02:06,590 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0

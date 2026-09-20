@@ -1,0 +1,47 @@
+2026-04-25 10:26:17,359 - Main - INFO - Sistem Gerbang Otomatis dimulai
+2026-04-25 10:26:25,702 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-25 10:26:25,702 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-25 10:26:25,703 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 10:26:25,703 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 10:26:27,585 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-25 10:26:27,585 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-25 10:26:27,585 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 10:26:27,585 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 10:26:27,586 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril']
+2026-04-25 10:26:27,586 - Recognizer - INFO - Threshold: 60
+2026-04-25 10:26:47,812 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-25 10:37:38,550 - Main - INFO - Sistem Gerbang Otomatis dimulai
+2026-04-25 10:38:22,618 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-25 10:38:22,618 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-25 10:38:22,618 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 10:38:22,618 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 10:38:26,076 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-25 10:38:26,076 - Trainer - INFO - Model loaded from D:\apk\Face Gate\data\trainer\trainer.yml
+2026-04-25 10:38:26,077 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 10:38:26,077 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 10:38:26,077 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril']
+2026-04-25 10:38:26,078 - Recognizer - INFO - Threshold: 60
+2026-04-25 10:38:51,071 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-25 15:03:02,330 - Main - INFO - Sistem Gerbang Otomatis dimulai
+2026-04-25 15:03:17,380 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-04-25 15:03:17,380 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-04-25 15:03:17,381 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 15:03:17,381 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 15:03:20,035 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-04-25 15:03:20,035 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-04-25 15:03:20,035 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 15:03:20,035 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 15:03:20,036 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril']
+2026-04-25 15:03:20,036 - Recognizer - INFO - Threshold: 60
+2026-04-25 15:04:32,307 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-04-25 15:39:35,058 - Main - INFO - Sistem Gerbang Otomatis dimulai
+2026-04-25 15:40:14,493 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-04-25 15:40:14,493 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-04-25 15:40:14,493 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 15:40:14,493 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 15:40:17,103 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-04-25 15:40:17,103 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-04-25 15:40:17,103 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 15:40:17,103 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-04-25 15:40:17,104 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril']
+2026-04-25 15:40:17,104 - Recognizer - INFO - Threshold: 60

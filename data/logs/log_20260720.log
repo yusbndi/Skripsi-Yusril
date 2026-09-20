@@ -1,0 +1,157 @@
+2026-07-20 12:02:50,376 - Main - INFO - Sistem Gerbang Otomatis dimulai
+2026-07-20 12:13:40,383 - Main - INFO - Sistem Gerbang Otomatis dimulai
+2026-07-20 12:23:21,689 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-20 12:30:55,631 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-20 12:30:55,643 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril', 5: 'Yusril S'}
+2026-07-20 12:30:55,644 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril', 'Yusril S']
+2026-07-20 12:30:55,645 - Recognizer - INFO - Threshold: 60
+2026-07-20 12:30:57,935 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-20 12:30:57,935 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-20 12:31:01,880 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 71.28
+2026-07-20 12:31:01,880 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 71.28, Thresh: 60
+2026-07-20 12:31:05,891 - Recognizer - DEBUG - Prediction - Label: 3, Confidence: 74.46
+2026-07-20 12:31:05,891 - Recognizer - DEBUG - ❌ Unknown - Label: 3, Conf: 74.46, Thresh: 60
+2026-07-20 12:31:09,817 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 69.92
+2026-07-20 12:31:09,817 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 69.92, Thresh: 60
+2026-07-20 12:31:16,387 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-20 12:31:16,387 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-20 12:31:16,387 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-20 12:33:51,352 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-20 12:33:51,352 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-20 12:33:51,355 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril', 5: 'Yusril S'}
+2026-07-20 12:33:51,355 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril', 5: 'Yusril S'}
+2026-07-20 12:33:51,356 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril', 'Yusril S']
+2026-07-20 12:33:51,356 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril', 'Yusril S']
+2026-07-20 12:33:51,357 - Recognizer - INFO - Threshold: 60
+2026-07-20 12:33:51,357 - Recognizer - INFO - Threshold: 60
+2026-07-20 12:33:53,655 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-20 12:33:53,655 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-20 12:33:53,655 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-20 12:33:53,655 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-20 12:33:57,868 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 67.17
+2026-07-20 12:33:57,868 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 67.17
+2026-07-20 12:33:57,868 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 67.17, Thresh: 60
+2026-07-20 12:33:57,868 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 67.17, Thresh: 60
+2026-07-20 12:34:01,983 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 64.81
+2026-07-20 12:34:01,983 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 64.81
+2026-07-20 12:34:01,983 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 64.81, Thresh: 60
+2026-07-20 12:34:01,983 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 64.81, Thresh: 60
+2026-07-20 12:34:05,982 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 66.14
+2026-07-20 12:34:05,982 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 66.14
+2026-07-20 12:34:05,982 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 66.14, Thresh: 60
+2026-07-20 12:34:05,982 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 66.14, Thresh: 60
+2026-07-20 12:34:09,457 - Recognizer - DEBUG - Prediction - Label: 5, Confidence: 85.31
+2026-07-20 12:34:09,457 - Recognizer - DEBUG - Prediction - Label: 5, Confidence: 85.31
+2026-07-20 12:34:09,457 - Recognizer - DEBUG - ❌ Unknown - Label: 5, Conf: 85.31, Thresh: 60
+2026-07-20 12:34:09,457 - Recognizer - DEBUG - ❌ Unknown - Label: 5, Conf: 85.31, Thresh: 60
+2026-07-20 12:34:12,915 - Recognizer - DEBUG - Prediction - Label: 5, Confidence: 80.43
+2026-07-20 12:34:12,915 - Recognizer - DEBUG - Prediction - Label: 5, Confidence: 80.43
+2026-07-20 12:34:12,916 - Recognizer - DEBUG - ❌ Unknown - Label: 5, Conf: 80.43, Thresh: 60
+2026-07-20 12:34:12,916 - Recognizer - DEBUG - ❌ Unknown - Label: 5, Conf: 80.43, Thresh: 60
+2026-07-20 12:34:16,640 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 73.10
+2026-07-20 12:34:16,640 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 73.10
+2026-07-20 12:34:16,640 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 73.10, Thresh: 60
+2026-07-20 12:34:16,640 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 73.10, Thresh: 60
+2026-07-20 12:34:20,425 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 68.43
+2026-07-20 12:34:20,425 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 68.43
+2026-07-20 12:34:20,426 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 68.43, Thresh: 60
+2026-07-20 12:34:20,426 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 68.43, Thresh: 60
+2026-07-20 12:34:24,285 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 68.76
+2026-07-20 12:34:24,285 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 68.76
+2026-07-20 12:34:24,285 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 68.76, Thresh: 60
+2026-07-20 12:34:24,285 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 68.76, Thresh: 60
+2026-07-20 12:34:28,142 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 69.10
+2026-07-20 12:34:28,142 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 69.10
+2026-07-20 12:34:28,143 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 69.10, Thresh: 60
+2026-07-20 12:34:28,143 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 69.10, Thresh: 60
+2026-07-20 12:34:31,453 - Recognizer - DEBUG - Prediction - Label: 5, Confidence: 79.37
+2026-07-20 12:34:31,453 - Recognizer - DEBUG - Prediction - Label: 5, Confidence: 79.37
+2026-07-20 12:34:31,453 - Recognizer - DEBUG - ❌ Unknown - Label: 5, Conf: 79.37, Thresh: 60
+2026-07-20 12:34:31,453 - Recognizer - DEBUG - ❌ Unknown - Label: 5, Conf: 79.37, Thresh: 60
+2026-07-20 12:34:35,025 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 91.39
+2026-07-20 12:34:35,025 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 91.39
+2026-07-20 12:34:35,025 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 91.39, Thresh: 60
+2026-07-20 12:34:35,025 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 91.39, Thresh: 60
+2026-07-20 12:34:38,908 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 70.66
+2026-07-20 12:34:38,908 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 70.66
+2026-07-20 12:34:38,909 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 70.66, Thresh: 60
+2026-07-20 12:34:38,909 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 70.66, Thresh: 60
+2026-07-20 12:34:45,875 - Recognizer - DEBUG - Prediction - Label: 5, Confidence: 69.69
+2026-07-20 12:34:45,875 - Recognizer - DEBUG - Prediction - Label: 5, Confidence: 69.69
+2026-07-20 12:34:45,876 - Recognizer - DEBUG - ❌ Unknown - Label: 5, Conf: 69.69, Thresh: 60
+2026-07-20 12:34:45,876 - Recognizer - DEBUG - ❌ Unknown - Label: 5, Conf: 69.69, Thresh: 60
+2026-07-20 12:34:49,718 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 72.95
+2026-07-20 12:34:49,718 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 72.95
+2026-07-20 12:34:49,718 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 72.95, Thresh: 60
+2026-07-20 12:34:49,718 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 72.95, Thresh: 60
+2026-07-20 12:34:53,644 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 64.32
+2026-07-20 12:34:53,644 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 64.32
+2026-07-20 12:34:53,644 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 64.32, Thresh: 60
+2026-07-20 12:34:53,644 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 64.32, Thresh: 60
+2026-07-20 12:34:57,551 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 63.20
+2026-07-20 12:34:57,551 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 63.20
+2026-07-20 12:34:57,552 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 63.20, Thresh: 60
+2026-07-20 12:34:57,552 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 63.20, Thresh: 60
+2026-07-20 12:35:01,467 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 62.93
+2026-07-20 12:35:01,467 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 62.93
+2026-07-20 12:35:01,468 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 62.93, Thresh: 60
+2026-07-20 12:35:01,468 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 62.93, Thresh: 60
+2026-07-20 12:35:05,402 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 64.36
+2026-07-20 12:35:05,402 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 64.36
+2026-07-20 12:35:05,402 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 64.36, Thresh: 60
+2026-07-20 12:35:05,402 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 64.36, Thresh: 60
+2026-07-20 12:35:09,315 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 62.83
+2026-07-20 12:35:09,315 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 62.83
+2026-07-20 12:35:09,316 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 62.83, Thresh: 60
+2026-07-20 12:35:09,316 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 62.83, Thresh: 60
+2026-07-20 12:35:13,255 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 60.78
+2026-07-20 12:35:13,255 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 60.78
+2026-07-20 12:35:13,255 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 60.78, Thresh: 60
+2026-07-20 12:35:13,255 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 60.78, Thresh: 60
+2026-07-20 12:35:17,193 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 61.05
+2026-07-20 12:35:17,193 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 61.05
+2026-07-20 12:35:17,193 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 61.05, Thresh: 60
+2026-07-20 12:35:17,193 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 61.05, Thresh: 60
+2026-07-20 12:35:18,366 - RecognitionGUI - INFO - 2026-07-20 12:35:18 - Access - Yusril - TERBUKA
+2026-07-20 12:35:18,366 - RecognitionGUI - INFO - 2026-07-20 12:35:18 - Access - Yusril - TERBUKA
+2026-07-20 12:35:22,430 - RecognitionGUI - INFO - 2026-07-20 12:35:22 - Access - System - TERTUTUP
+2026-07-20 12:35:22,430 - RecognitionGUI - INFO - 2026-07-20 12:35:22 - Access - System - TERTUTUP
+2026-07-20 12:35:28,243 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 69.06
+2026-07-20 12:35:28,243 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 69.06
+2026-07-20 12:35:28,243 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 69.06, Thresh: 60
+2026-07-20 12:35:28,243 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 69.06, Thresh: 60
+2026-07-20 12:35:32,192 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 81.43
+2026-07-20 12:35:32,192 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 81.43
+2026-07-20 12:35:32,192 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 81.43, Thresh: 60
+2026-07-20 12:35:32,192 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 81.43, Thresh: 60
+2026-07-20 12:35:45,022 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 67.91
+2026-07-20 12:35:45,022 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 67.91
+2026-07-20 12:35:45,022 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 67.91, Thresh: 60
+2026-07-20 12:35:45,022 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 67.91, Thresh: 60
+2026-07-20 12:42:46,542 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-20 12:42:46,542 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-20 12:42:46,542 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-20 12:42:46,542 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-20 12:42:46,643 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril', 5: 'Yusril S'}
+2026-07-20 12:42:46,643 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril', 5: 'Yusril S'}
+2026-07-20 12:42:46,643 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril', 5: 'Yusril S'}
+2026-07-20 12:42:46,643 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril', 5: 'Yusril S'}
+2026-07-20 12:42:51,338 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-20 12:42:51,338 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-20 12:42:51,338 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-20 12:42:51,338 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-20 12:42:51,339 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril', 5: 'Yusril S'}
+2026-07-20 12:42:51,339 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril', 5: 'Yusril S'}
+2026-07-20 12:42:51,339 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril', 5: 'Yusril S'}
+2026-07-20 12:42:51,339 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril', 5: 'Yusril S'}
+2026-07-20 12:42:51,341 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril', 'Yusril S']
+2026-07-20 12:42:51,341 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril', 'Yusril S']
+2026-07-20 12:42:51,341 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril', 'Yusril S']
+2026-07-20 12:42:51,342 - Recognizer - INFO - Threshold: 60
+2026-07-20 12:42:51,342 - Recognizer - INFO - Threshold: 60
+2026-07-20 12:42:51,342 - Recognizer - INFO - Threshold: 60
+2026-07-20 12:43:17,868 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-20 12:43:17,868 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-20 12:43:17,868 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-20 12:43:17,868 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-20 12:43:17,868 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0

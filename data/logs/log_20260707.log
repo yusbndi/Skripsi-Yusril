@@ -1,0 +1,87 @@
+2026-07-07 09:52:40,576 - Main - INFO - Sistem Gerbang Otomatis dimulai
+2026-07-07 09:53:33,786 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-07 09:53:33,786 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril'}
+2026-07-07 09:53:33,786 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril']
+2026-07-07 09:53:33,786 - Recognizer - INFO - Threshold: 60
+2026-07-07 09:53:36,313 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-07 09:53:42,856 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 72.85
+2026-07-07 09:53:42,859 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 72.85, Thresh: 60
+2026-07-07 09:53:47,777 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 69.58
+2026-07-07 09:53:47,777 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 69.58, Thresh: 60
+2026-07-07 09:53:52,598 - Recognizer - DEBUG - Prediction - Label: 4, Confidence: 70.33
+2026-07-07 09:53:52,598 - Recognizer - DEBUG - ❌ Unknown - Label: 4, Conf: 70.33, Thresh: 60
+2026-07-07 09:53:57,427 - Recognizer - DEBUG - Prediction - Label: 0, Confidence: 73.61
+2026-07-07 09:53:57,428 - Recognizer - DEBUG - ❌ Unknown - Label: 0, Conf: 73.61, Thresh: 60
+2026-07-07 09:54:05,090 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-07 09:54:05,090 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-07 09:55:46,001 - Trainer - INFO - Starting training process...
+2026-07-07 09:55:46,001 - Trainer - INFO - Starting training process...
+2026-07-07 09:55:46,003 - Trainer - INFO - Loading user: Johati
+2026-07-07 09:55:46,003 - Trainer - INFO - Loading user: Johati
+2026-07-07 09:55:47,151 - Trainer - INFO -   Loaded 100 images for Johati
+2026-07-07 09:55:47,151 - Trainer - INFO -   Loaded 100 images for Johati
+2026-07-07 09:55:47,152 - Trainer - INFO - Loading user: Rokayah
+2026-07-07 09:55:47,152 - Trainer - INFO - Loading user: Rokayah
+2026-07-07 09:55:48,259 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-07-07 09:55:48,259 - Trainer - INFO -   Loaded 100 images for Rokayah
+2026-07-07 09:55:48,259 - Trainer - INFO - Loading user: Siswanto
+2026-07-07 09:55:48,259 - Trainer - INFO - Loading user: Siswanto
+2026-07-07 09:55:49,371 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-07-07 09:55:49,371 - Trainer - INFO -   Loaded 100 images for Siswanto
+2026-07-07 09:55:49,371 - Trainer - INFO - Loading user: Syifa
+2026-07-07 09:55:49,371 - Trainer - INFO - Loading user: Syifa
+2026-07-07 09:55:50,461 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-07-07 09:55:50,461 - Trainer - INFO -   Loaded 100 images for Syifa
+2026-07-07 09:55:50,461 - Trainer - INFO - Loading user: Yusril
+2026-07-07 09:55:50,461 - Trainer - INFO - Loading user: Yusril
+2026-07-07 09:55:51,629 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-07-07 09:55:51,629 - Trainer - INFO -   Loaded 100 images for Yusril
+2026-07-07 09:55:51,630 - Trainer - INFO - Loading user: Yusril S
+2026-07-07 09:55:51,630 - Trainer - INFO - Loading user: Yusril S
+2026-07-07 09:55:52,685 - Trainer - INFO -   Loaded 100 images for Yusril S
+2026-07-07 09:55:52,685 - Trainer - INFO -   Loaded 100 images for Yusril S
+2026-07-07 09:55:52,685 - Trainer - INFO - Training with 600 faces from 6 users
+2026-07-07 09:55:52,685 - Trainer - INFO - Training with 600 faces from 6 users
+2026-07-07 09:55:57,790 - Trainer - INFO - Model saved to D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-07 09:55:57,790 - Trainer - INFO - Model saved to D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-07 09:55:57,793 - Trainer - INFO - Training completed! Total users: 6
+2026-07-07 09:55:57,793 - Trainer - INFO - Training completed! Total users: 6
+2026-07-07 09:56:14,417 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-07 09:56:14,417 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-07 09:56:14,417 - Trainer - INFO - Model loaded from D:\Yusril\Skripsi\Face Gate\data\trainer\trainer.yml
+2026-07-07 09:56:14,417 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril', 5: 'Yusril S'}
+2026-07-07 09:56:14,417 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril', 5: 'Yusril S'}
+2026-07-07 09:56:14,417 - Trainer - INFO - Labels: {0: 'Johati', 1: 'Rokayah', 2: 'Siswanto', 3: 'Syifa', 4: 'Yusril', 5: 'Yusril S'}
+2026-07-07 09:56:14,417 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril', 'Yusril S']
+2026-07-07 09:56:14,417 - Recognizer - INFO - Model loaded. Users: ['Johati', 'Rokayah', 'Siswanto', 'Syifa', 'Yusril', 'Yusril S']
+2026-07-07 09:56:14,417 - Recognizer - INFO - Threshold: 60
+2026-07-07 09:56:14,417 - Recognizer - INFO - Threshold: 60
+2026-07-07 09:56:16,436 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-07 09:56:16,436 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-07 09:56:16,436 - CameraHandler - INFO - Camera started with resolution 1280.0x720.0
+2026-07-07 09:56:16,778 - RecognitionGUI - INFO - 2026-07-07 09:56:16 - Access - Yusril S - TERBUKA
+2026-07-07 09:56:16,778 - RecognitionGUI - INFO - 2026-07-07 09:56:16 - Access - Yusril S - TERBUKA
+2026-07-07 09:56:20,885 - RecognitionGUI - INFO - 2026-07-07 09:56:20 - Access - System - TERTUTUP
+2026-07-07 09:56:20,885 - RecognitionGUI - INFO - 2026-07-07 09:56:20 - Access - System - TERTUTUP
+2026-07-07 09:56:24,149 - RecognitionGUI - INFO - 2026-07-07 09:56:24 - Access - Yusril S - TERBUKA
+2026-07-07 09:56:24,149 - RecognitionGUI - INFO - 2026-07-07 09:56:24 - Access - Yusril S - TERBUKA
+2026-07-07 09:56:28,247 - RecognitionGUI - INFO - 2026-07-07 09:56:28 - Access - System - TERTUTUP
+2026-07-07 09:56:28,247 - RecognitionGUI - INFO - 2026-07-07 09:56:28 - Access - System - TERTUTUP
+2026-07-07 09:56:31,518 - RecognitionGUI - INFO - 2026-07-07 09:56:31 - Access - Yusril S - TERBUKA
+2026-07-07 09:56:31,518 - RecognitionGUI - INFO - 2026-07-07 09:56:31 - Access - Yusril S - TERBUKA
+2026-07-07 09:56:35,625 - RecognitionGUI - INFO - 2026-07-07 09:56:35 - Access - System - TERTUTUP
+2026-07-07 09:56:35,625 - RecognitionGUI - INFO - 2026-07-07 09:56:35 - Access - System - TERTUTUP
+2026-07-07 09:56:38,903 - RecognitionGUI - INFO - 2026-07-07 09:56:38 - Access - Yusril S - TERBUKA
+2026-07-07 09:56:38,903 - RecognitionGUI - INFO - 2026-07-07 09:56:38 - Access - Yusril S - TERBUKA
+2026-07-07 09:56:43,015 - RecognitionGUI - INFO - 2026-07-07 09:56:43 - Access - System - TERTUTUP
+2026-07-07 09:56:43,015 - RecognitionGUI - INFO - 2026-07-07 09:56:43 - Access - System - TERTUTUP
+2026-07-07 09:56:46,280 - RecognitionGUI - INFO - 2026-07-07 09:56:46 - Access - Yusril S - TERBUKA
+2026-07-07 09:56:46,280 - RecognitionGUI - INFO - 2026-07-07 09:56:46 - Access - Yusril S - TERBUKA
+2026-07-07 09:56:50,374 - RecognitionGUI - INFO - 2026-07-07 09:56:50 - Access - System - TERTUTUP
+2026-07-07 09:56:50,374 - RecognitionGUI - INFO - 2026-07-07 09:56:50 - Access - System - TERTUTUP
+2026-07-07 09:56:53,646 - RecognitionGUI - INFO - 2026-07-07 09:56:53 - Access - Yusril S - TERBUKA
+2026-07-07 09:56:53,646 - RecognitionGUI - INFO - 2026-07-07 09:56:53 - Access - Yusril S - TERBUKA
+2026-07-07 09:56:57,746 - RecognitionGUI - INFO - 2026-07-07 09:56:57 - Access - System - TERTUTUP
+2026-07-07 09:56:57,746 - RecognitionGUI - INFO - 2026-07-07 09:56:57 - Access - System - TERTUTUP
+2026-07-07 09:57:01,021 - RecognitionGUI - INFO - 2026-07-07 09:57:01 - Access - Yusril S - TERBUKA
+2026-07-07 09:57:01,021 - RecognitionGUI - INFO - 2026-07-07 09:57:01 - Access - Yusril S - TERBUKA
